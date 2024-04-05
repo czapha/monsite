@@ -9,7 +9,7 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
-    image: ./assets/img/courts_illu.PNG
+    image: ./assets/img/courts_illu.png
 
   - title: Access to Bank Credit after Emerging from Corporate Bankruptcy
     authors: <strong>Nov. 2023</strong>
@@ -20,4 +20,4 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
-    image: ./assets/img/credit_illu.PNG
+    image: ./assets/img/credit_illu.png
