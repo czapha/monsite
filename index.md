@@ -2,9 +2,6 @@
 layout: homepage
 ---
 
-## About Me
-
-I am a research economist at the Banque de France
 
 ## Research Interests
 
