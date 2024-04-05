@@ -9,6 +9,28 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/sauvegarde_illu.PNG
     #notes: Early Accept
+
+  - title: Does merging small bankruptcy courts increase their efficiency?
+    authors: with Anne Epaulard, <strong>March 2024</strong>
+    #conference_short: WP
+    conference: Working Paper
+    pdf: ./assets/files/Courts.pdf #https://ideas.repec.org/p/hal/wpaper/hal-04214904.html
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/courts_illu.PNG
+
+  - title: Access to Bank Credit after Emerging from Corporate Bankruptcy
+    authors: <strong>Nov. 2023</strong>
+    #conference_short: WP
+    conference: Banque de France - Working Paper WP928
+    pdf: https://www.banque-france.fr/fr/publications-et-statistiques/publications/acces-au-credit-bancaire-des-entreprises-en-restructuration
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/credit_illu.PNG
     
   #- title: Corporate Bankruptcy and the (In-)Efficiency of Small Commercial Courts
   #  authors: with Anne Epaulard, <strong>Sept. 2023</strong>
