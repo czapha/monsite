@@ -10,13 +10,13 @@ main:
     image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
-  - title: Corporate Bankruptcy and the (In-)Efficiency of Small Commercial Courts
-    authors: with Anne Epaulard, <strong>Sept. 2023</strong>
-    conference_short: WP
-    conference: Working Paper
-    pdf: https://ideas.repec.org/p/hal/wpaper/hal-04214904.html
+  #- title: Corporate Bankruptcy and the (In-)Efficiency of Small Commercial Courts
+  #  authors: with Anne Epaulard, <strong>Sept. 2023</strong>
+  #  conference_short: WP
+  #  conference: Working Paper
+  #  pdf: https://ideas.repec.org/p/hal/wpaper/hal-04214904.html
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  #  image: ./assets/img/teaser_example.png
