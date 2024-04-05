@@ -1,7 +1,7 @@
 
 <h2 id="working_papers" style="margin: 2px 0px -15px;">Working Papers</h2>
 
-<div class="working_papers">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.working_papers.main %}
