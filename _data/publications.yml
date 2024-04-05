@@ -7,7 +7,7 @@ main:
     pdf: https://www.banque-france.fr/fr/publications-et-statistiques/publications/acces-au-credit-bancaire-des-entreprises-en-restructuration
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
   #- title: Corporate Bankruptcy and the (In-)Efficiency of Small Commercial Courts
