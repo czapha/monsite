@@ -7,7 +7,7 @@ main:
     doi: https://doi.org/10.1016/j.jebo.2022.02.001.
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/sauvegarde_illu.png
     #notes: Early Accept
     
   #- title: Corporate Bankruptcy and the (In-)Efficiency of Small Commercial Courts
