@@ -10,8 +10,6 @@ layout: homepage
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/working_papers.md %}
-
 ## Work in progress
 
 - **The impact of floods on firms' financial performance in France** with Nicoletta Berardi, Elie Malhaire, Loriane Py and Jules Tapin
