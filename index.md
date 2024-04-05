@@ -8,8 +8,8 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Law and Economics** corporate bankruptcy
-- **Applied microeconomics** in the fileds of corporate finance, banking, climate risks
+- **Applied microeconomics** in the fields of corporate finance, banking, climate risks
+- **Law and Economics** and corporate bankruptcy
 
 {% include_relative _includes/publications.md %}
 
