@@ -12,9 +12,9 @@ main:
     image: ./assets/img/courts_illu.PNG
 
   - title: Access to Bank Credit after Emerging from Corporate Bankruptcy
-    authors: WP928, <strong>Nov. 2023</strong>
+    authors: <strong>Nov. 2023</strong>
     conference_short: WP
-    conference: Banque de France Working Paper
+    conference: Banque de France - Working Paper WP928
     pdf: https://www.banque-france.fr/fr/publications-et-statistiques/publications/acces-au-credit-bancaire-des-entreprises-en-restructuration
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
