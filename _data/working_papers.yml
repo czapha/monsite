@@ -10,13 +10,13 @@ main:
     image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
-  #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #  authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #  conference_short: CVPR
-  #  conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #  pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #  code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #  page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #  notes: Oral Presentation
-  #  image: ./assets/img/teaser_example.png
+  - title: Access to Bank Credit after Emerging from Corporate Bankruptcy
+    authors: WP928, <strong>Nov. 2023</strong>
+  #  conference_short: WP
+    conference: Banque de France Working Paper
+    pdf: https://ideas.repec.org/p/hal/wpaper/hal-04214904.html
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/teaser_example.png
