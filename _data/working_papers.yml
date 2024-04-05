@@ -2,12 +2,12 @@ main:
 
   - title: Bankruptcy Costs and the Design of Preventive Restructuring Procedures
     authors: Volume 196, <strong>April 2022</strong>, Pages 229-250, with Anne Epaulard
-    conference_short: JEBO
+    # conference_short: JEBO
     conference: Journal of Economic Behavior & Organization
     doi: https://doi.org/10.1016/j.jebo.2022.02.001.
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
   - title: Access to Bank Credit after Emerging from Corporate Bankruptcy
