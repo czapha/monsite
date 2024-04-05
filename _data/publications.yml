@@ -1,22 +1,22 @@
 main:
 
-  - title: Bankruptcy Costs and the Design of Preventive Restructuring Procedures
-    authors: Volume 196, <strong>April 2022</strong>, Pages 229-250, with Anne Epaulard
-    conference_short: JEBO
-    conference: Journal of Economic Behavior & Organization
-    pdf: https://doi.org/10.1016/j.jebo.2022.02.001.
+  - title: Access to Bank Credit after Emerging from Corporate Bankruptcy
+    authors: WP928, <strong>Nov. 2023</strong>
+    conference_short: WP
+    conference: Banque de France Working Paper
+    pdf: https://www.banque-france.fr/fr/publications-et-statistiques/publications/acces-au-credit-bancaire-des-entreprises-en-restructuration
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
-  #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #  authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #  conference_short: CVPR
-  #  conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #  pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #  code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #  page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #  notes: Oral Presentation
-  #  image: ./assets/img/teaser_example.png
+  - title: Corporate Bankruptcy and the (In-)Efficiency of Small Commercial Courts
+    authors: with Anne Epaulard, <strong>Sept. 2023</strong>
+    conference_short: WP
+    conference: Working Paper
+    pdf: https://ideas.repec.org/p/hal/wpaper/hal-04214904.html
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
