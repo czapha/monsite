@@ -1,10 +1,10 @@
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Working Papers</h2>
+<h2 id="working_papers" style="margin: 2px 0px -15px;">Working Papers</h2>
 
-<div class="publications">
+<div class="working_papers">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.working_papers.main %}
 
 <li>
 <div class="pub-row">
