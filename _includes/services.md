@@ -1,4 +1,4 @@
-## Others
+## Other
 
 <h4 style="margin:0 10px 0;">Short articles</h4>
 
