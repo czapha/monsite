@@ -6,7 +6,7 @@ layout: homepage
 ## Research Interests
 
 - **Applied microeconomics** in the fields of corporate finance, banking, climate risks
-- Law and Economics, corporate bankruptcy
+- **Law and Economics**, corporate bankruptcy
 
 {% include_relative _includes/publications.md %}
 
