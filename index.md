@@ -1,7 +1,9 @@
 ---
 layout: homepage
 ---
+## About me
 
+I am a research-economist at the Banque de France. I am in charge of analyzing insolvencies, state-guaranteed loan schemes, and the resilience of businesses in the face of natural disasters. Previously a research fellow at France Stratégie, I completed my doctoral thesis at the LEDa (Laboratoire d'Économie de Dauphine - Université PSL) in 2023 under the supervision of Anne Epaulard and a CIFRE contract at the Banque de France. My thesis offers an economic analysis of bankruptcy laws in France, focusing in particular on preventive procedures, the rebound of firms after restructuring and the efficiency of (small) commercial courts in deciding whether to save or liquidate distressed firms.
 
 ## Research Interests
 
