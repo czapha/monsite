@@ -2,7 +2,7 @@ main:
 
   - title: Bankruptcy Costs and the Design of Preventive Restructuring Procedures
     authors: with Anne Epaulard, Volume 196, Pages 229-250, <strong>April 2022</strong> 
-    conference_short: JEBO
+    #conference_short: JEBO
     conference: Journal of Economic Behavior & Organization
     pdf: https://www.sciencedirect.com/science/article/pii/S0167268122000476
     #code: https://github.com/MrGiovanni/ContinualLearning
