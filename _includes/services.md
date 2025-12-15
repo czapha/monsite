@@ -16,3 +16,4 @@
   <li><autocolor> <strong>2022,</strong> Co-recipient of the "Best Doctoral Paper Award" at the 38th Conference of the French Finance Association (AFFI 2022) for the paper titled "Access to Bank Credit after Emerging From Corporate Bankruptcy</autocolor></li>
 </ul>
 
+
